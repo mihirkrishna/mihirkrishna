@@ -5,7 +5,7 @@
 
 
 - 🧑🏻‍💼 A Software Engineer
-- 🔭 I’m working on AI & Web Dev
+- 🔭 I’m working on Web Dev & AI
 - 💬 Ask me about Technology, AI, Web Dev and My Work
 - 🧑🏻‍💻 Book an online chat : https://topmate.io/mihirx
 - 🌱 I’m still learning and improving my skills 
