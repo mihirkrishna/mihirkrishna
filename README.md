@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Mihir
+### Hello there 👋, I'm Mihir Krishna
 
 
 
